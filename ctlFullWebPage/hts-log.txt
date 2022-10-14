@@ -1,0 +1,266 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 14 Oct 2022 11:28:00 at https://ctlcompany.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ctlcompany.com/ -O1 "C:\Users\LENOVO\Documents\ctlcompany\ctlFullWebPage" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:28:45	Warning: 	Retry after error 409 (Conflict) at link https://ctlcompany.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.2 (from https://ctlcompany.com/)
+11:28:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ctlcompany.com/wp-content/themes/astra/assets/css/minified/compatibility/contact-form-7-main.min.css?ver=3.9.2 (from https://ctlcompany.com/)
+11:29:03	Error: 	"Not Found" (404) at link https://ctlcompany.gumlet.io/wp-content/uploads/2021/08/labqunimica.jpg?compress=true (from https://ctlcompany.com/)
+11:29:23	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/ (from https://ctlcompany.com/)
+11:29:23	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/pages/60 (from https://ctlcompany.com/)
+11:29:23	Warning: 	Retry after error 409 (Conflict) at link https://ctlcompany.com/xmlrpc.php?rsd (from https://ctlcompany.com/)
+11:29:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ctlcompany.com/wp-includes/wlwmanifest.xml (from https://ctlcompany.com/)
+11:29:23	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2F (from https://ctlcompany.com/)
+11:29:23	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2F&format=xml (from https://ctlcompany.com/)
+11:29:40	Warning: 	Retry after error 409 (Conflict) at link https://ctlcompany.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.2 (from https://ctlcompany.com/)
+11:29:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ctlcompany.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.8.2 (from https://ctlcompany.com/)
+11:29:40	Error: 	"Bad Request" (400) at link https://www.google.com/recaptcha/api.js?render=6LcWTwwcAAAAAE2w7DhQVTYiqI0fhyIKUgVLrEG_&ver=3.0 (from https://ctlcompany.com/)
+11:29:40	Warning: 	Retry after error 409 (Conflict) at link https://ctlcompany.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.6.2 (from https://ctlcompany.com/)
+11:29:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ctlcompany.com/wp-content/plugins/gdpr-cookie-compliance/dist/scripts/main.js?ver=4.8.12 (from https://ctlcompany.com/)
+11:29:40	Warning: 	Retry after error 409 () at link https://ctlcompany.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.2 (from https://ctlcompany.com/)
+11:29:40	Warning: 	Retry after error 409 (Conflict) at link https://ctlcompany.com/wp-content/themes/astra/assets/css/minified/compatibility/contact-form-7-main.min.css?ver=3.9.2 (from https://ctlcompany.com/)
+11:29:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ctlcompany.com/wp-content/plugins/woocommerce/assets/fonts/star.eot? (from https://ctlcompany.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=3.9.2)
+11:29:42	Warning: 	Retry after error 409 () at link https://ctlcompany.com/xmlrpc.php?rsd (from https://ctlcompany.com/)
+11:30:16	Warning: 	Moved Permanently for https://ctlcompany.com/author/soporteti/
+11:30:16	Warning: 	File has moved from https://ctlcompany.com/author/soporteti/ to https://ctlcompany.com
+11:30:23	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/pages/150 (from https://ctlcompany.com/nosotros/)
+11:30:23	Warning: 	Moved Permanently for https://ctlcompany.com/?p=150
+11:30:23	Warning: 	File has moved from https://ctlcompany.com/?p=150 to https://ctlcompany.com/nosotros/
+11:30:23	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fnosotros%2F (from https://ctlcompany.com/nosotros/)
+11:30:23	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fnosotros%2F&format=xml (from https://ctlcompany.com/nosotros/)
+11:30:23	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/pages/175 (from https://ctlcompany.com/contacto/)
+11:30:23	Warning: 	Moved Permanently for https://ctlcompany.com/?p=175
+11:30:23	Warning: 	File has moved from https://ctlcompany.com/?p=175 to https://ctlcompany.com/contacto/
+11:30:23	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fcontacto%2F (from https://ctlcompany.com/contacto/)
+11:30:23	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fcontacto%2F&format=xml (from https://ctlcompany.com/contacto/)
+11:30:23	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/pages/3 (from https://ctlcompany.com/privacy-policy/)
+11:30:23	Warning: 	Moved Permanently for https://ctlcompany.com/?p=3
+11:30:23	Warning: 	File has moved from https://ctlcompany.com/?p=3 to https://ctlcompany.com/privacy-policy/
+11:30:23	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fprivacy-policy%2F (from https://ctlcompany.com/privacy-policy/)
+11:30:23	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fprivacy-policy%2F&format=xml (from https://ctlcompany.com/privacy-policy/)
+11:30:23	Warning: 	Retry after error 409 (Conflict) at link https://ctlcompany.com/xmlrpc.php (from https://ctlcompany.com/privacy-policy/)
+11:30:23	Warning: 	Retry after error 409 () at link https://ctlcompany.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.2 (from https://ctlcompany.com/)
+11:30:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ctlcompany.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.8.2 (from https://ctlcompany.com/)
+11:30:24	Warning: 	Retry after error 409 () at link https://ctlcompany.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.6.2 (from https://ctlcompany.com/)
+11:30:24	Error: 	"" (409) after 2 retries at link https://ctlcompany.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.2 (from https://ctlcompany.com/)
+11:30:24	Error: 	"Conflict" (409) after 2 retries at link https://ctlcompany.com/wp-content/themes/astra/assets/css/minified/compatibility/contact-form-7-main.min.css?ver=3.9.2 (from https://ctlcompany.com/)
+11:30:24	Error: 	"" (409) after 2 retries at link https://ctlcompany.com/xmlrpc.php?rsd (from https://ctlcompany.com/)
+11:30:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ctlcompany.com/productos/page/3/ (from https://ctlcompany.com/productos/page/2/)
+11:30:25	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product_cat/34 (from https://ctlcompany.com/categoria-producto/bancos-didacticos/)
+11:30:58	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product_cat/32 (from https://ctlcompany.com/categoria-producto/equipos-e-insumos-de-laboratorio/)
+11:31:28	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product_cat/37 (from https://ctlcompany.com/categoria-producto/equipos-e-insumos-de-laboratorio/floculadores/)
+11:31:33	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product_cat/30 (from https://ctlcompany.com/categoria-producto/laboratorios-de-idiomas/)
+11:31:36	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product_cat/26 (from https://ctlcompany.com/categoria-producto/mobiliario-especializado/)
+11:31:41	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product_cat/29 (from https://ctlcompany.com/categoria-producto/modelos-anatomicos-y-simuladores/)
+11:31:49	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product_cat/38 (from https://ctlcompany.com/categoria-producto/plantas-piloto-y-linea-agroindustrial/)
+11:31:51	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/posts/55 (from https://ctlcompany.com/anticipate-changing-patient-needs/)
+11:31:51	Warning: 	Moved Permanently for https://ctlcompany.com/?p=55
+11:31:51	Warning: 	File has moved from https://ctlcompany.com/?p=55 to https://ctlcompany.com/anticipate-changing-patient-needs/
+11:31:51	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fanticipate-changing-patient-needs%2F (from https://ctlcompany.com/anticipate-changing-patient-needs/)
+11:31:51	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fanticipate-changing-patient-needs%2F&format=xml (from https://ctlcompany.com/anticipate-changing-patient-needs/)
+11:31:51	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/categories/4 (from https://ctlcompany.com/category/patient-needs/)
+11:31:51	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/posts/54 (from https://ctlcompany.com/stay-on-top-of-pharmacy-trends/)
+11:31:51	Warning: 	Moved Permanently for https://ctlcompany.com/?p=54
+11:31:51	Warning: 	File has moved from https://ctlcompany.com/?p=54 to https://ctlcompany.com/stay-on-top-of-pharmacy-trends/
+11:31:51	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fstay-on-top-of-pharmacy-trends%2F (from https://ctlcompany.com/stay-on-top-of-pharmacy-trends/)
+11:31:51	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fstay-on-top-of-pharmacy-trends%2F&format=xml (from https://ctlcompany.com/stay-on-top-of-pharmacy-trends/)
+11:31:51	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/categories/5 (from https://ctlcompany.com/category/trends/)
+11:31:51	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/posts/53 (from https://ctlcompany.com/concienciacion-sobre-la-salud/)
+11:31:51	Warning: 	Moved Permanently for https://ctlcompany.com/?p=53
+11:31:51	Warning: 	File has moved from https://ctlcompany.com/?p=53 to https://ctlcompany.com/concienciacion-sobre-la-salud/
+11:31:51	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fconcienciacion-sobre-la-salud%2F (from https://ctlcompany.com/concienciacion-sobre-la-salud/)
+11:31:51	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fconcienciacion-sobre-la-salud%2F&format=xml (from https://ctlcompany.com/concienciacion-sobre-la-salud/)
+11:31:51	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/categories/3 (from https://ctlcompany.com/category/equipos-para-laboratorio/)
+11:31:51	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/posts/1 (from https://ctlcompany.com/hello-world/)
+11:31:51	Warning: 	Moved Permanently for https://ctlcompany.com/?p=1
+11:31:51	Warning: 	File has moved from https://ctlcompany.com/?p=1 to https://ctlcompany.com/hello-world/
+11:31:51	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fhello-world%2F (from https://ctlcompany.com/hello-world/)
+11:31:51	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fhello-world%2F&format=xml (from https://ctlcompany.com/hello-world/)
+11:31:51	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/categories/1 (from https://ctlcompany.com/category/uncategorized/)
+11:31:51	Warning: 	Retry after error 409 (Conflict) at link https://ctlcompany.com/xmlrpc.php (from https://ctlcompany.com/privacy-policy/)
+11:31:51	Error: 	"" (409) after 2 retries at link https://ctlcompany.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.2 (from https://ctlcompany.com/)
+11:31:51	Error: 	"" (409) after 2 retries at link https://ctlcompany.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.6.2 (from https://ctlcompany.com/)
+11:31:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ctlcompany.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=6.8.2 (from https://ctlcompany.com/producto/banco-didactico-de-circuitos/)
+11:31:53	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/505 (from https://ctlcompany.com/producto/banco-didactico-de-circuitos/)
+11:31:53	Warning: 	Moved Permanently for https://ctlcompany.com/?p=505
+11:31:53	Warning: 	File has moved from https://ctlcompany.com/?p=505 to https://ctlcompany.com/producto/banco-didactico-de-circuitos/
+11:31:53	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fbanco-didactico-de-circuitos%2F (from https://ctlcompany.com/producto/banco-didactico-de-circuitos/)
+11:31:53	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fbanco-didactico-de-circuitos%2F&format=xml (from https://ctlcompany.com/producto/banco-didactico-de-circuitos/)
+11:31:53	Warning: 	Retry after error 409 (Conflict) at link https://ctlcompany.com/wp-content/plugins/product-enquiry-for-woocommerce/assets/common/images/contact/loading.gif (from https://ctlcompany.com/producto/banco-didactico-de-circuitos/)
+11:31:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ctlcompany.com/wp-content/plugins/product-enquiry-for-woocommerce/assets/public/css/wdm-jquery-ui.css?ver=3.1.6 (from https://ctlcompany.com/producto/banco-didactico-de-circuitos/)
+11:31:53	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/510 (from https://ctlcompany.com/producto/banco-didactico-de-logica-cableada-y-arranque-de-motores/)
+11:31:53	Warning: 	Moved Permanently for https://ctlcompany.com/?p=510
+11:31:53	Warning: 	File has moved from https://ctlcompany.com/?p=510 to https://ctlcompany.com/producto/banco-didactico-de-logica-cableada-y-arranque-de-motores/
+11:31:53	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fbanco-didactico-de-logica-cableada-y-arranque-de-motores%2F (from https://ctlcompany.com/producto/banco-didactico-de-logica-cableada-y-arranque-de-motores/)
+11:31:53	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fbanco-didactico-de-logica-cableada-y-arranque-de-motores%2F&format=xml (from https://ctlcompany.com/producto/banco-didactico-de-logica-cableada-y-arranque-de-motores/)
+11:31:53	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/515 (from https://ctlcompany.com/producto/banco-de-maquinas/)
+11:31:53	Warning: 	Moved Permanently for https://ctlcompany.com/?p=515
+11:31:53	Warning: 	File has moved from https://ctlcompany.com/?p=515 to https://ctlcompany.com/producto/banco-de-maquinas/
+11:31:53	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fbanco-de-maquinas%2F (from https://ctlcompany.com/producto/banco-de-maquinas/)
+11:31:53	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fbanco-de-maquinas%2F&format=xml (from https://ctlcompany.com/producto/banco-de-maquinas/)
+11:31:53	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/513 (from https://ctlcompany.com/producto/banco-didactico-de-refrigeracion/)
+11:31:53	Warning: 	Moved Permanently for https://ctlcompany.com/?p=513
+11:31:53	Warning: 	File has moved from https://ctlcompany.com/?p=513 to https://ctlcompany.com/producto/banco-didactico-de-refrigeracion/
+11:31:53	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fbanco-didactico-de-refrigeracion%2F (from https://ctlcompany.com/producto/banco-didactico-de-refrigeracion/)
+11:31:53	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fbanco-didactico-de-refrigeracion%2F&format=xml (from https://ctlcompany.com/producto/banco-didactico-de-refrigeracion/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/categoria-producto/equipos-e-insumos-de-laboratorio/page/1/
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/categoria-producto/equipos-e-insumos-de-laboratorio/page/1/ to https://ctlcompany.com/categoria-producto/equipos-e-insumos-de-laboratorio/
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/666 (from https://ctlcompany.com/producto/agitador-mazzini/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=666
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=666 to https://ctlcompany.com/producto/agitador-mazzini/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fagitador-mazzini%2F (from https://ctlcompany.com/producto/agitador-mazzini/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fagitador-mazzini%2F&format=xml (from https://ctlcompany.com/producto/agitador-mazzini/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/573 (from https://ctlcompany.com/producto/analizador-de-particulas/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=573
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=573 to https://ctlcompany.com/producto/analizador-de-particulas/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fanalizador-de-particulas%2F (from https://ctlcompany.com/producto/analizador-de-particulas/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fanalizador-de-particulas%2F&format=xml (from https://ctlcompany.com/producto/analizador-de-particulas/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/556 (from https://ctlcompany.com/producto/autoclave-esterilizador/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=556
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=556 to https://ctlcompany.com/producto/autoclave-esterilizador/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fautoclave-esterilizador%2F (from https://ctlcompany.com/producto/autoclave-esterilizador/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fautoclave-esterilizador%2F&format=xml (from https://ctlcompany.com/producto/autoclave-esterilizador/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/686 (from https://ctlcompany.com/producto/balanza-analitica/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=686
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=686 to https://ctlcompany.com/producto/balanza-analitica/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fbalanza-analitica%2F (from https://ctlcompany.com/producto/balanza-analitica/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fbalanza-analitica%2F&format=xml (from https://ctlcompany.com/producto/balanza-analitica/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/679 (from https://ctlcompany.com/producto/bureta-digital/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=679
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=679 to https://ctlcompany.com/producto/bureta-digital/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fbureta-digital%2F (from https://ctlcompany.com/producto/bureta-digital/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fbureta-digital%2F&format=xml (from https://ctlcompany.com/producto/bureta-digital/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/403 (from https://ctlcompany.com/producto/camara-climatica-3906/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=403
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=403 to https://ctlcompany.com/producto/camara-climatica-3906/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fcamara-climatica-3906%2F (from https://ctlcompany.com/producto/camara-climatica-3906/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fcamara-climatica-3906%2F&format=xml (from https://ctlcompany.com/producto/camara-climatica-3906/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/561 (from https://ctlcompany.com/producto/camara-de-niebla-salina/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=561
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=561 to https://ctlcompany.com/producto/camara-de-niebla-salina/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fcamara-de-niebla-salina%2F (from https://ctlcompany.com/producto/camara-de-niebla-salina/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fcamara-de-niebla-salina%2F&format=xml (from https://ctlcompany.com/producto/camara-de-niebla-salina/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/559 (from https://ctlcompany.com/producto/centrifugadora/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=559
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=559 to https://ctlcompany.com/producto/centrifugadora/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fcentrifugadora%2F (from https://ctlcompany.com/producto/centrifugadora/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fcentrifugadora%2F&format=xml (from https://ctlcompany.com/producto/centrifugadora/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/688 (from https://ctlcompany.com/producto/congelador-de-laboratorio/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=688
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=688 to https://ctlcompany.com/producto/congelador-de-laboratorio/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fcongelador-de-laboratorio%2F (from https://ctlcompany.com/producto/congelador-de-laboratorio/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fcongelador-de-laboratorio%2F&format=xml (from https://ctlcompany.com/producto/congelador-de-laboratorio/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/435 (from https://ctlcompany.com/producto/destilador-barnstead-thermo-scientific/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=435
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=435 to https://ctlcompany.com/producto/destilador-barnstead-thermo-scientific/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fdestilador-barnstead-thermo-scientific%2F (from https://ctlcompany.com/producto/destilador-barnstead-thermo-scientific/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fdestilador-barnstead-thermo-scientific%2F&format=xml (from https://ctlcompany.com/producto/destilador-barnstead-thermo-scientific/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/684 (from https://ctlcompany.com/producto/destilador-de-agua/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=684
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=684 to https://ctlcompany.com/producto/destilador-de-agua/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fdestilador-de-agua%2F (from https://ctlcompany.com/producto/destilador-de-agua/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fdestilador-de-agua%2F&format=xml (from https://ctlcompany.com/producto/destilador-de-agua/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/567 (from https://ctlcompany.com/producto/espectrofotometro/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=567
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=567 to https://ctlcompany.com/producto/espectrofotometro/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fespectrofotometro%2F (from https://ctlcompany.com/producto/espectrofotometro/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fespectrofotometro%2F&format=xml (from https://ctlcompany.com/producto/espectrofotometro/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/399 (from https://ctlcompany.com/producto/floculador-fc6s-con-posiciones-independientes-serie-fc-s-100-240-v-50-60-hz-velp-scientifica-f105a0112/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=399
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=399 to https://ctlcompany.com/producto/floculador-fc6s-con-posiciones-independientes-serie-fc-s-100-240-v-50-60-hz-velp-scientifica-f105a0112/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Ffloculador-fc6s-con-posiciones-independientes-serie-fc-s-100-240-v-50-60-hz-velp-scientifica-f105a0112%2F (from https://ctlcompany.com/producto/floculador-fc6s-con-posiciones-independientes-serie-fc-s-100-240-v-50-60-hz-velp-scientifica-f105a0112/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Ffloculador-fc6s-con-posiciones-independientes-serie-fc-s-100-240-v-50-60-hz-velp-scientifica-f105a0112%2F&format=xml (from https://ctlcompany.com/producto/floculador-fc6s-con-posiciones-independientes-serie-fc-s-100-240-v-50-60-hz-velp-scientifica-f105a0112/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/401 (from https://ctlcompany.com/producto/floculador-portatil100-240-v-50-60-hz-velp-scientific-f105a0117/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=401
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=401 to https://ctlcompany.com/producto/floculador-portatil100-240-v-50-60-hz-velp-scientific-f105a0117/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Ffloculador-portatil100-240-v-50-60-hz-velp-scientific-f105a0117%2F (from https://ctlcompany.com/producto/floculador-portatil100-240-v-50-60-hz-velp-scientific-f105a0117/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Ffloculador-portatil100-240-v-50-60-hz-velp-scientific-f105a0117%2F&format=xml (from https://ctlcompany.com/producto/floculador-portatil100-240-v-50-60-hz-velp-scientific-f105a0117/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/416 (from https://ctlcompany.com/producto/tel-me-more/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=416
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=416 to https://ctlcompany.com/producto/tel-me-more/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Ftel-me-more%2F (from https://ctlcompany.com/producto/tel-me-more/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Ftel-me-more%2F&format=xml (from https://ctlcompany.com/producto/tel-me-more/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/579 (from https://ctlcompany.com/producto/almacenamiento/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=579
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=579 to https://ctlcompany.com/producto/almacenamiento/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Falmacenamiento%2F (from https://ctlcompany.com/producto/almacenamiento/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Falmacenamiento%2F&format=xml (from https://ctlcompany.com/producto/almacenamiento/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/546 (from https://ctlcompany.com/producto/superficies/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=546
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=546 to https://ctlcompany.com/producto/superficies/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fsuperficies%2F (from https://ctlcompany.com/producto/superficies/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fsuperficies%2F&format=xml (from https://ctlcompany.com/producto/superficies/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/520 (from https://ctlcompany.com/producto/simulacion-dinamica-o-estatica/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=520
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=520 to https://ctlcompany.com/producto/simulacion-dinamica-o-estatica/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fsimulacion-dinamica-o-estatica%2F (from https://ctlcompany.com/producto/simulacion-dinamica-o-estatica/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fsimulacion-dinamica-o-estatica%2F&format=xml (from https://ctlcompany.com/producto/simulacion-dinamica-o-estatica/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/544 (from https://ctlcompany.com/producto/invernadero-inteligente/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=544
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=544 to https://ctlcompany.com/producto/invernadero-inteligente/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Finvernadero-inteligente%2F (from https://ctlcompany.com/producto/invernadero-inteligente/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Finvernadero-inteligente%2F&format=xml (from https://ctlcompany.com/producto/invernadero-inteligente/)
+11:32:22	Error: 	"Conflict" (409) after 2 retries at link https://ctlcompany.com/xmlrpc.php (from https://ctlcompany.com/privacy-policy/)
+11:32:22	Warning: 	Retry after error 409 () at link https://ctlcompany.com/wp-content/plugins/product-enquiry-for-woocommerce/assets/common/images/contact/loading.gif (from https://ctlcompany.com/producto/banco-didactico-de-circuitos/)
+11:32:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ctlcompany.com/wp-content/plugins/product-enquiry-for-woocommerce/assets/public/css/wdm-jquery-ui.css?ver=3.1.6 (from https://ctlcompany.com/producto/banco-didactico-de-circuitos/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/674 (from https://ctlcompany.com/producto/homogenizador/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=674
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=674 to https://ctlcompany.com/producto/homogenizador/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fhomogenizador%2F (from https://ctlcompany.com/producto/homogenizador/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fhomogenizador%2F&format=xml (from https://ctlcompany.com/producto/homogenizador/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/548 (from https://ctlcompany.com/producto/impresion-3d/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=548
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=548 to https://ctlcompany.com/producto/impresion-3d/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fimpresion-3d%2F (from https://ctlcompany.com/producto/impresion-3d/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fimpresion-3d%2F&format=xml (from https://ctlcompany.com/producto/impresion-3d/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/681 (from https://ctlcompany.com/producto/incubadora-de-co2/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=681
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=681 to https://ctlcompany.com/producto/incubadora-de-co2/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fincubadora-de-co2%2F (from https://ctlcompany.com/producto/incubadora-de-co2/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fincubadora-de-co2%2F&format=xml (from https://ctlcompany.com/producto/incubadora-de-co2/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/664 (from https://ctlcompany.com/producto/medidor-de-tension-superficial/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=664
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=664 to https://ctlcompany.com/producto/medidor-de-tension-superficial/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fmedidor-de-tension-superficial%2F (from https://ctlcompany.com/producto/medidor-de-tension-superficial/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fmedidor-de-tension-superficial%2F&format=xml (from https://ctlcompany.com/producto/medidor-de-tension-superficial/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/554 (from https://ctlcompany.com/producto/microoscopio/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=554
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=554 to https://ctlcompany.com/producto/microoscopio/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fmicrooscopio%2F (from https://ctlcompany.com/producto/microoscopio/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fmicrooscopio%2F&format=xml (from https://ctlcompany.com/producto/microoscopio/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/676 (from https://ctlcompany.com/producto/pipeta-automatica/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=676
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=676 to https://ctlcompany.com/producto/pipeta-automatica/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fpipeta-automatica%2F (from https://ctlcompany.com/producto/pipeta-automatica/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fpipeta-automatica%2F&format=xml (from https://ctlcompany.com/producto/pipeta-automatica/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/668 (from https://ctlcompany.com/producto/sistemas-purificadores-de-agua/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=668
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=668 to https://ctlcompany.com/producto/sistemas-purificadores-de-agua/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fsistemas-purificadores-de-agua%2F (from https://ctlcompany.com/producto/sistemas-purificadores-de-agua/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Fsistemas-purificadores-de-agua%2F&format=xml (from https://ctlcompany.com/producto/sistemas-purificadores-de-agua/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/575 (from https://ctlcompany.com/producto/tamizadora/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=575
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=575 to https://ctlcompany.com/producto/tamizadora/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Ftamizadora%2F (from https://ctlcompany.com/producto/tamizadora/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Ftamizadora%2F&format=xml (from https://ctlcompany.com/producto/tamizadora/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/564 (from https://ctlcompany.com/producto/termociclador/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=564
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=564 to https://ctlcompany.com/producto/termociclador/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Ftermociclador%2F (from https://ctlcompany.com/producto/termociclador/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Ftermociclador%2F&format=xml (from https://ctlcompany.com/producto/termociclador/)
+11:32:22	Error: 	"Unauthorized" (401) at link https://ctlcompany.com/wp-json/wp/v2/product/436 (from https://ctlcompany.com/producto/tubos-con-codigo-de-barras/)
+11:32:22	Warning: 	Moved Permanently for https://ctlcompany.com/?p=436
+11:32:22	Warning: 	File has moved from https://ctlcompany.com/?p=436 to https://ctlcompany.com/producto/tubos-con-codigo-de-barras/
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Ftubos-con-codigo-de-barras%2F (from https://ctlcompany.com/producto/tubos-con-codigo-de-barras/)
+11:32:22	Error: 	"Forbidden" (403) at link https://ctlcompany.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctlcompany.com%2Fproducto%2Ftubos-con-codigo-de-barras%2F&format=xml (from https://ctlcompany.com/producto/tubos-con-codigo-de-barras/)
+11:32:23	Error: 	"" (409) after 2 retries at link https://ctlcompany.com/wp-content/plugins/product-enquiry-for-woocommerce/assets/common/images/contact/loading.gif (from https://ctlcompany.com/producto/banco-didactico-de-circuitos/)
+11:32:30	Error: 	"Not Found" (404) at link https://ctlcompany.com/wp-content/plugins/product-enquiry-for-woocommerce/assets/public/images/ui-bg_glass_55_fbf9ee_1x400.png (from https://ctlcompany.com/wp-content/plugins/product-enquiry-for-woocommerce/assets/public/css/wdm-jquery-ui.css?ver=3.1.6)
+11:32:30	Error: 	"Not Found" (404) at link https://ctlcompany.com/wp-content/plugins/product-enquiry-for-woocommerce/assets/public/images/ui-bg_glass_95_fef1ec_1x400.png (from https://ctlcompany.com/wp-content/plugins/product-enquiry-for-woocommerce/assets/public/css/wdm-jquery-ui.css?ver=3.1.6)
+11:32:30	Error: 	"Not Found" (404) at link https://ctlcompany.com/wp-content/plugins/product-enquiry-for-woocommerce/assets/public/images/ui-icons_2e83ff_256x240.png (from https://ctlcompany.com/wp-content/plugins/product-enquiry-for-woocommerce/assets/public/css/wdm-jquery-ui.css?ver=3.1.6)
+11:32:30	Error: 	"Not Found" (404) at link https://ctlcompany.com/wp-content/plugins/product-enquiry-for-woocommerce/assets/public/images/ui-icons_cd0a0a_256x240.png (from https://ctlcompany.com/wp-content/plugins/product-enquiry-for-woocommerce/assets/public/css/wdm-jquery-ui.css?ver=3.1.6)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 30 seconds : 484 links scanned, 270 files written (24402197 bytes overall) [18731755 bytes received at 69376 bytes/sec], 8800040 bytes transferred using HTTP compression in 64 files, ratio 26%, 1.0 requests per connection
+(148 errors, 107 warnings, 0 messages)
